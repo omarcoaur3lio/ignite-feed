@@ -8,3 +8,12 @@
     gap: 2rem;
     align-items: flex-start; /* impede o comportamento padrão (stretch) que força os componentes terem o mesmo tamanho */
 }
+
+@media (max-width: 768px) {
+    html {
+        font-size: 87.5%;
+    }
+    .wrapper {
+        grid-template-columns: 1fr;
+    }
+}
