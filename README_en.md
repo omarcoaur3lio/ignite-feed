@@ -14,7 +14,7 @@
 </a>
 
 <a href="./README.md">
-    <img alt="Leia em português" src="https://img.shields.io/badge/-Read in english-000?style=flat&logo=google-translate&logoColor=FFF&labelColor=00875F" />
+    <img alt="Leia em português" src="https://img.shields.io/badge/-Leia em português-000?style=flat&logo=google-translate&logoColor=FFF&labelColor=00875F" />
 </a>
     </h1>
 </p>
