@@ -21,13 +21,13 @@
 <br>
 
 <p align="center">
-  <a href="#speech_balloon-Sobre">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-About">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-Instalação">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Technologies</a>
+  <a href="#hammer_and_wrench-Setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>
 </p>
 
-## :speech_balloon: Sobre
+## :speech_balloon: About
 
 This application was developed during the first module of [Rocketseat's](https://www.rocketseat.com.br/ignite) Ignite training program. During development, the main concepts of ReactJS were covered, the use of some `Hooks` such as `useEffect` and `useState`, as well as an introduction to TypeScript and technologies such as Vite.
 
@@ -39,7 +39,7 @@ Ignite Feed simulates a social network, where connected users can send comments 
   <img src=".github/preview.png" width=80% />
 </div>
 
-## :hammer_and_wrench: Instalação
+## :hammer_and_wrench: Setup
 
 To run the application on your machine, you must have the [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) and [NodeJS](https://nodejs.org/pt-br/download/package-manager/) already installed, and also a package manager like [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).
 With these tools installed:
@@ -65,7 +65,7 @@ yarn dev # or npm run dev
 ```
 The application will be available for access in your browser at http://localhost:3000
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 - [Vite](https://vitejs.dev/)
 - [ReactJS](https://reactjs.org/)
